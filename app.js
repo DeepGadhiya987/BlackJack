@@ -69,7 +69,7 @@ function blackjackDeal(){
 
 function blackjackstand(){
     isStand=true; 
-    while(dealerscore<18){  
+    while(dealerscore<15){  
     
         let num=Math.floor(Math.random()*cardpicker.length);
         let cardImage=document.createElement('img');
