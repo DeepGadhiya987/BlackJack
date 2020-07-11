@@ -19,13 +19,13 @@
     text-align: center;
     flex: 1;
 }
-@media screen and (max-width: 680px){
+@media screen and (max-width: 600px){
 .flex-blackjack-row-1 img {
     width: 80px;
     height: 90px;
     padding: 10px;
 }}
-@media screen and (min-width:680px){
+@media screen and (min-width:600px){
     .flex-blackjack-row-1 img{
         width: 25%;
     padding: 10px;
